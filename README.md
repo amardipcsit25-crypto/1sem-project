@@ -82,3 +82,127 @@ Use of functions<br>
 Random number generation<br>
 Loop control<br>
 Score calculation<br>
+
+# Employee Management System
+
+A console-based Employee Management System developed in C that manages employee records using file handling. The system allows administrators to add, update, search, and delete employee records while also providing salary and department-based analysis.
+
+## Features
+
+### Employee Record Management
+- Add new employee records
+- Update existing employee information
+- Search employees by name
+- Delete employee records
+- Prevent duplicate employee IDs during employee registration
+
+### Employee Analysis
+- Display employee with the highest salary
+- Display employee with the lowest salary
+- Show employees from the IT Support department
+- Display employees earning above the average salary
+- Count employees in each department
+
+### Security
+- Password-protected access
+- Maximum of three login attempts
+
+### File Handling
+- Stores employee data in a text file
+- Supports reading, writing, updating, and deleting records
+
+
+## Technologies Used
+
+- C Programming Language
+- Structures
+- Functions
+- File Handling
+- String Manipulation
+
+
+
+## Employee Information
+
+The system stores the following employee details:
+
+- Employee ID
+- Employee Name
+- Gender
+- Age
+- Department
+- Salary
+
+
+## Departments
+
+The project supports the following departments:
+
+- Software Development
+- Network Administration
+- Data Management
+- Cybersecurity
+- IT Support
+
+
+
+## Menu Structure
+
+### Main Menu
+
+
+1. Update Employee Data
+2. Search Employee
+3. Delete Employee
+4. Add Employee
+5. Employee Analysis
+
+
+### Analysis Menu
+
+1. Highest and Lowest Salary
+2. Employees from IT Department
+3. Employees Above Average Salary
+4. Count Employees in Each Department
+
+
+## Sample Login
+
+Enter the password to access employee data:
+Project@123
+
+
+
+## Learning Outcomes
+
+This project demonstrates:
+
+- Structure implementation in C
+- File handling operations
+- CRUD (Create, Read, Update, Delete) operations
+- Menu-driven programming
+- Data processing and analysis
+- Basic authentication system
+
+
+
+## Limitations
+
+- Data is stored in a text file instead of a database.
+- Employee names cannot contain spaces.
+- Search functionality is limited to employee names.
+- Password is hardcoded in the source code.
+- No data encryptions
+
+
+
+## Future Enhancements
+
+- Search by employee ID
+- Sort employees by salary, age, or name
+- Secure password storage
+- Database integration (MySQL/SQLite)
+- Graphical User Interface (GUI)
+- Report generation
+- Advanced filtering options
+
