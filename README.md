@@ -195,9 +195,9 @@ This project demonstrates:
 - No data encryptions
 
 
----
-##Conclusion
 
+##Conclusion
+---
 The Employee Management System is a console-based application developed in C that demonstrates the practical use of file handling, structures, functions, and menu-driven programming. The project provides an efficient way to manage employee records by allowing users to add, update, search, and delete employee information while maintaining data persistence through files.
 
 In addition to basic employee management operations, the system offers analytical features such as identifying the highest and lowest salary employees, displaying employees from specific departments, calculating employees earning above the average salary, and counting employees in each department. These features enhance the functionality of the application and provide meaningful insights into employee data.
