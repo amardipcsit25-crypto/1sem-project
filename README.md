@@ -4,10 +4,10 @@ The project is a simple yet powerful cybersecurity-based application developed i
 
 
 #Guessing Game in C
-
+---
 
 ##Features
-
+---
 Random number generation using rand()<br>
 Three difficulty levels<br>
 Limited guessing attempts<br>
@@ -21,14 +21,14 @@ Simple and beginner-friendly C project<br>
 
 
 ##Difficulty Levels
-
+---
 Level	Number Range	Attempts<br>
 Easy	1 – 9	10 Attempts<br>
 Medium	10 – 99	15 Attempts<br>
 Hard	100 – 999	20 Attempts
 
 ##Technologies Used
-
+---
 C Programming Language<br>
 Standard Libraries:<br>
 stdio.h<br>
@@ -36,7 +36,8 @@ stdlib.h<br>
 time.h<br>
 
 
-##How the Game Works<br>
+##How the Game Works
+---
 User selects a difficulty level.<br>
 Program generates a random number.<br>
 User enters guesses.<br>
@@ -53,6 +54,7 @@ Correct number is displayed<br>
 
 
 ##Concepts Used
+---
 Functions<br>
 Loops<br>
 Conditional Statements<br>
@@ -63,6 +65,7 @@ Variables and Operators<br>
 
 
 ##Sample Output
+---
 enter 1 for easy level:<br>
 enter 2 for medium level:<br>
 enter 3 for hard level: 1<br>
@@ -75,6 +78,7 @@ You are very close to win! Please Try Again:<br>
 
 
 ##Learning Objectives<br>
+---
 This project helps me understand:<br>
 
 Basic game logic in C<br>
